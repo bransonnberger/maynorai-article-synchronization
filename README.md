@@ -1,0 +1,2 @@
+# maynorai-article-synchronization
+MaynorAI 文章同步助手可以把一篇文章同步到 23 个平台的草稿箱。默认只创建或更新草稿，不会直接发布；只有你主动打开「同步后直接发布」时，才会尝试发布。
